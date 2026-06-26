@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">猜拳游戏</string>
+    <string name="title">与手机猜拳</string>
+    <string name="label_computer">手机</string>
+    <string name="label_player">玩家</string>
+    <string name="result_initial">判定输赢: 选择你的剪刀石头布</string>
+    <string name="result_win">判定输赢: 恭喜，你赢了！</string>
+    <string name="result_lose">判定输赢: 恭喜，你输了！</string>
+    <string name="result_draw">判定输赢: 双方平手！</string>
+    <string name="dialog_title">判定结果</string>
+    <string name="dialog_restart_question">是否重新开始?</string>
+    <string name="dialog_positive">确定</string>
+    <string name="dialog_negative">取消</string>
+    <string name="score_player">玩家: %d</string>
+    <string name="score_computer">手机: %d</string>
+    <string name="score_draw">平局: %d</string>
+    <string name="score_title">比分统计</string>
+</resources>
